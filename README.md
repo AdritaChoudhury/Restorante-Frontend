@@ -16,6 +16,6 @@ This is a frontend design of a restaurant reservation portal. It consists of sev
   ![image](https://user-images.githubusercontent.com/50648833/124948456-55f26b00-e02e-11eb-93d5-48223dec2c77.png)
   <br><br>
   <li><strong>The third page is the Contact page.</strong></li><br>
-  <i>This page has two parts. The first displays the contact information of the restaurant and the second part is a feedback form from customers who have already visited the restaurant.</i></br>
-  ![image](https://user-images.githubusercontent.com/50648833/124948967-cb5e3b80-e02e-11eb-90ef-c818b610c476.png)
+  <i>This page has two parts. The first displays the contact information of the restaurant and the second part is a feedback form from customers who have already visited the restaurant.</i>
+  ![image](https://user-images.githubusercontent.com/50648833/124949484-3c055800-e02f-11eb-8ad3-eddd1e0e1fbc.png)
  </ul>
